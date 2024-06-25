@@ -36,13 +36,13 @@ var minute := 0
 var hour := 0
 
 # The day in the current month
-var day := 0
+var day := 1
 
 # The day in the current year
 var julian := 0
 
 # The month in the current year
-var month := 0
+var month := 1
 
 # The current year
 var year := 0
